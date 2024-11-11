@@ -21,3 +21,18 @@
    git clone https://github.com/your-username/ni_library.git
    cd ni_library
    npm run dev
+
+## Key Features & Functionality
+1. Books Management:
+    Add Book: Add a new book to the library catalog.
+    Update Book: Update details of an existing book.
+    Delete Book: Remove a book from the catalog.
+    View Book: Retrieve information about available books.
+2. Member Management:
+    Add Member: Register a new library member.
+    Update Member: Update member details.
+    Delete Member: Remove a member from the system.
+3. Borrowing System:
+    Borrow Book: Members can borrow books from the library.
+    Return Book: Members return borrowed books, and the system updates the return status.
+    Overdue Tracking: Admins can view a list of overdue books that members have not returned within the allowed period.
